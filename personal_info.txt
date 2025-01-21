@@ -1,1 +1,2 @@
 Favorite subject: Computer science
+Learning Git is fun!
